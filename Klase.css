@@ -36,3 +36,12 @@ body
     background-color: #DCDCDC;
 }
 
+.zoom:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.center {
+  text-align: center;
+}
+
